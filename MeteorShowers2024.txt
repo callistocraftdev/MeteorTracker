@@ -1,8 +1,8 @@
-Quadrantid Meteor Shower; 12/26/2024; 01/16/2025; night of 01/02/2025 - before dawn of 01/03/2025; 100+ total; https://www.space.com/35142-quadrantid-meteor-shower-guide.html;
-Lyrid Meteor Shower; 04/15/2025; 04/30/2025; night of 04/21/2025 - before dawn of 04/22/2025; 18 per hour; https://www.space.com/36381-lyrid-meteor-shower-guide.html;
-Eta Aquariid Meteor Shower; 04/20/2025; 05/21/2025; night of 05/03/2025 - before dawn of 05/04/2025; 50 per hour; https://www.space.com/36502-eta-aquarid-meteor-shower-guide.html;
+Quadrantid Meteor Shower; 12/26/2024; 01/16/2025; 1/03/2025; 100+ total; https://www.space.com/35142-quadrantid-meteor-shower-guide.html;
+Lyrid Meteor Shower; 04/15/2025; 04/30/2025; 04/22/2025; 18 per hour; https://www.space.com/36381-lyrid-meteor-shower-guide.html;
+Eta Aquariid Meteor Shower; 04/20/2025; 05/21/2025; 05/04/2025; 50 per hour; https://www.space.com/36502-eta-aquarid-meteor-shower-guide.html;
 Southern Delta Aquariid Meteor Shower; 07/18/2025; 08/12/2025; night of 07/30/2025; 
-Perseid Meteor Shower; 07/15/2024; 08/25/2024; night of 08/12/2024 - before dawn of 08/13/2024; 100+ per hour; https://www.space.com/32868-perseid-meteor-shower-guide.html;
+Perseid Meteor Shower; 07/15/2024; 08/13/2024; 100+ per hour; https://www.space.com/32868-perseid-meteor-shower-guide.html;
 Draconid Meteor Shower; 10/06/2024; 10/10/2024; night of 10/08/2024 - before dawn of 10/09/2024; varies due to Earth proximity to Comet Giacobini-Zinner; https://www.space.com/38390-draconid-meteor-shower-guide.html;
 Orionid Meteor Shower; 09/26/2024; 11/22/2024; night of 10/20/2024 - before dawn of 10/21/2024; 20 per hour; https://www.space.com/34373-orionid-meteor-shower-guide.html;
 Southern Taurid Meteor Shower; 09/28/2024; 12/02/2024; night of 11/04/2024 - before dawn of 11/05/2024; 6 per hour; https://www.space.com/taurid-meteor-shower;
